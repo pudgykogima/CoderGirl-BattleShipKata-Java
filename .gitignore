@@ -1,0 +1,9 @@
+*.class
+/webPageImages
+/bin
+*.received.*
+# Package Files #
+
+*.war
+*.ear
+test-output/
